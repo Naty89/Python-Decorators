@@ -1,6 +1,6 @@
 ## Python-Decorator
 
-A Decorator is a function that modifies another function or givea it extra features.
+A Decorator is a function that modifies another function with out modifying the actual function.
 
 example:
 
