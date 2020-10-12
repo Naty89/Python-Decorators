@@ -24,3 +24,10 @@ def add(x, y):
 
 print(add(10, 21))
 ```
+
+This decorator calculates the amount of time that the add function to run and the result to this could would be:
+
+```bash
+This took 1.1920928955078125e-06 ms
+31
+```
